@@ -37,3 +37,7 @@ Extend your GitHub reach through integrations, or by installing GitHub Desktop a
 
 Learn how to launch and grow your open source project with the Open Source Guides.
 
+
+Quick Start ->Learning Resources
+
+
