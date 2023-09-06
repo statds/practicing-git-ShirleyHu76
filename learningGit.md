@@ -40,4 +40,4 @@ Learn how to launch and grow your open source project with the Open Source Guide
 
 Quick Start ->Learning Resources
 
-
+Commit
